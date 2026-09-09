@@ -4,7 +4,7 @@
 
 ### 💻 MERN Stack Developer | Frontend Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;Frontend+Developer;React.js+%7C+Node.js+%7C+MongoDB;Building+Responsive+Web+Applications" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Frontend+Developer;React.js+%7C+Node.js+%7C+MongoDB;Building+Responsive+Web+Applications" alt="Typing SVG" />
 
 <p>
   <a href="https://github.com/kumarisonam2002">
@@ -39,40 +39,45 @@ I'm a **MERN Stack Developer (Frontend-focused)** with hands-on experience build
 ## 🛠️ Tech Stack
 
 ### Frontend
+
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
 </p>
 
 ### Backend & Database
+
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
 ### Programming & Tools
+
 <p>
 <img src="https://skillicons.dev/icons?i=cpp,python,git,github,vscode" />
 </p>
 
 ### Concepts
+
 `Object-Oriented Programming (OOP)` · `REST APIs` · `Responsive Web Design`
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 AI Mock Interview Platform
+### 🤖 InterviewIQ.AI — AI Mock Interview Platform
 
-An interactive platform designed to help users practice interview questions in a simulated interview environment.
+An interactive MERN-based platform designed to help users practice interview questions in a simulated interview environment.
 
 **Tech:** React.js · Tailwind CSS · Node.js · Express.js · MongoDB · JavaScript · Web Speech API
 
 **Highlights**
-- Interactive mock interview experience
-- Web Speech API integration for voice input and speech recognition
-- Reusable React components
-- Dynamic question handling
-- Real-time response collection
-- Responsive user interface
+
+- 🔐 User authentication
+- 🤖 AI-powered interview experience
+- 🎤 Web Speech API integration
+- ⚛️ Reusable React components
+- 📊 Interview performance tracking
+- 📱 Responsive user interface
 
 ---
 
@@ -83,38 +88,56 @@ A full-stack web application for automated timetable generation, conflict detect
 **Tech:** React.js · Tailwind CSS · Node.js · Express.js · MongoDB · JavaScript
 
 **Highlights**
-- Management of classes, faculty, rooms and timetable data
-- Detection of faculty, classroom and time-slot conflicts
-- Automated conflict-resolution suggestions
-- RESTful APIs for timetable management
-- MongoDB-based data storage
-- Responsive React interface
+
+- 👨‍🏫 Faculty and classroom management
+- 🕐 Time-slot conflict detection
+- 🧠 Automated conflict-resolution suggestions
+- 🔧 RESTful APIs
+- 🗄️ MongoDB-based data storage
+- 📱 Responsive React interface
 
 ---
 
 ## 💼 Experience
 
 ### Full Stack Developer Intern — Ansh InfoTech
+
 **Feb 2026 – June 2026**
 
-- Developed and maintained web application features using React.js, Node.js, Express.js and MongoDB.
-- Created and integrated REST APIs for data management and application functionality.
-- Worked with MongoDB for database design, storage and retrieval.
-- Implemented responsive user interfaces and optimized application performance.
-- Collaborated with developers using Git and GitHub for version control.
+- Developed web application features using React.js, JavaScript and modern frontend technologies.
+- Worked with HTML, CSS, Bootstrap and responsive design.
+- Created interactive UI components and implemented JavaScript functionality.
+- Worked with Git and GitHub for version control and project collaboration.
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kumarisonam2002&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarisonam2002&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=kumarisonam2002&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<br>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarisonam2002&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=kumarisonam2002&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## ⚡ GitHub Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kumarisonam2002&theme=tokyo-night&hide_border=true" />
 
 </div>
 
@@ -124,7 +147,11 @@ A full-stack web application for automated timetable generation, conflict detect
 
 <div align="center">
 
-![Contribution Snake](https://raw.githubusercontent.com/kumarisonam2002/kumarisonam2002/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kumarisonam2002/kumarisonam2002/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kumarisonam2002/kumarisonam2002/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/kumarisonam2002/kumarisonam2002/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
@@ -141,21 +168,23 @@ A full-stack web application for automated timetable generation, conflict detect
 
 ## 🌱 Currently Learning
 
-- Advanced React.js
-- Full Stack Development
-- REST API Development
-- Modern UI/UX practices
-- Problem Solving
+- ⚛️ Advanced React.js
+- 🌐 Full Stack Development
+- 🔧 REST API Development
+- 🎨 Modern UI/UX practices
+- 🧠 Problem Solving
+- 🗄️ Advanced MongoDB & Backend Development
 
 ---
 
 ## 🎯 2026 Goals
 
-- Build production-ready MERN applications
-- Improve React and backend development skills
-- Contribute to open-source projects
-- Strengthen Data Structures & Problem Solving
-- Grow as a professional Full Stack Developer
+- 🚀 Build production-ready MERN applications
+- ⚛️ Become stronger in React and backend development
+- 🌐 Build and deploy real-world full-stack applications
+- 🧠 Strengthen Data Structures & Problem Solving
+- 🌍 Contribute to open-source projects
+- 💼 Grow as a professional Full Stack Developer
 
 ---
 
